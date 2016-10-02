@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/res/merged/debug/layout/identitytoolkit_start_sign_in_page.xml",
+        "source": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/exploded-aar/identitytoolkit-api11/res/layout/identitytoolkit_start_sign_in_page.xml"
+    },
+    {
+        "merged": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/res/merged/debug/layout/identitytoolkit_password_link_account_page.xml",
+        "source": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/exploded-aar/identitytoolkit-api11/res/layout/identitytoolkit_password_link_account_page.xml"
+    },
+    {
+        "merged": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/res/merged/debug/layout/identitytoolkit_idp_link_account_page.xml",
+        "source": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/exploded-aar/identitytoolkit-api11/res/layout/identitytoolkit_idp_link_account_page.xml"
+    },
+    {
+        "merged": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/res/merged/debug/layout/identitytoolkit_idp_button.xml",
+        "source": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/exploded-aar/identitytoolkit-api11/res/layout/identitytoolkit_idp_button.xml"
+    },
+    {
+        "merged": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/res/merged/debug/layout/identitytoolkit_password_sign_in_page.xml",
+        "source": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/exploded-aar/identitytoolkit-api11/res/layout/identitytoolkit_password_sign_in_page.xml"
+    },
+    {
+        "merged": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/res/merged/debug/layout/welcome.xml",
+        "source": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/res/layout/welcome.xml"
+    },
+    {
+        "merged": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/res/merged/debug/layout/profile.xml",
+        "source": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/res/layout/profile.xml"
+    },
+    {
+        "merged": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/res/merged/debug/layout/identitytoolkit_account_chip_sign_in_page.xml",
+        "source": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/exploded-aar/identitytoolkit-api11/res/layout/identitytoolkit_account_chip_sign_in_page.xml"
+    },
+    {
+        "merged": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/res/merged/debug/layout/identitytoolkit_password_sign_up_page.xml",
+        "source": "/Users/yujun/Downloads/identity-toolkit-android-master/tutorial/build/intermediates/exploded-aar/identitytoolkit-api11/res/layout/identitytoolkit_password_sign_up_page.xml"
+    }
+]
