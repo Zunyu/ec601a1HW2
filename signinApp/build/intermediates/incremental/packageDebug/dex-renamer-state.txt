@@ -1,0 +1,7 @@
+#Sun Oct 02 17:22:30 EDT 2016
+base.0=/Users/yujun/Downloads/identity-toolkit-android-master-2/signinApp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7295fcf47619d4bcc6fb9b6c52074b38667af668
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/yujun/Downloads/identity-toolkit-android-master-2/signinApp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_48f1af6d20c6f8a6622c3a95b7cb7f5ad0da72ca/classes.dex
+base.1=/Users/yujun/Downloads/identity-toolkit-android-master-2/signinApp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_48f1af6d20c6f8a6622c3a95b7cb7f5ad0da72ca
+file.0=/Users/yujun/Downloads/identity-toolkit-android-master-2/signinApp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7295fcf47619d4bcc6fb9b6c52074b38667af668/classes.dex
